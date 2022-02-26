@@ -1,0 +1,98 @@
+
+Input a SQUARE MATRIX.
+Enter the number of rows: 2
+Enter the number of columns: 2
+
+Enter elements of the matrix row-wise.
+Enter element 5
+Enter element 8
+Enter element 6
+Enter element 7
+
+ORIGINAL MATRIX:
+5	8	
+
+6	7	
+
+
+Sum of left diagonal= 12
+Sum of right diagonal= 14
+
+Enter the number of rotation needed: 3
+
+MATRIX AFTER ROTATION:
+8	7	
+
+5	6	
+
+
+Sum of left diagonal= 14
+Sum of right diagonal= 12
+
+1. Continue
+2. Exit
+Enter your choice: 1
+
+Input a SQUARE MATRIX.
+Enter the number of rows: 4
+Enter the number of columns: 4
+
+Enter elements of the matrix row-wise.
+Enter element 24
+Enter element 10
+Enter element 58
+Enter element 96
+Enter element 34
+Enter element 10
+Enter element 78
+Enter element 70
+Enter element 63
+Enter element 25
+Enter element 49
+Enter element 13
+Enter element 61
+Enter element 33
+Enter element 18
+Enter element 44
+
+ORIGINAL MATRIX:
+24	10	58	96	
+
+34	10	78	70	
+
+63	25	49	13	
+
+61	33	18	44	
+
+
+Sum of left diagonal= 127
+Sum of right diagonal= 260
+
+Enter the number of rotation needed: 1
+
+MATRIX AFTER ROTATION:
+61	63	34	24	
+
+33	25	10	10	
+
+18	49	78	58	
+
+44	13	70	96	
+
+
+Sum of left diagonal= 260
+Sum of right diagonal= 127
+
+1. Continue
+2. Exit
+Enter your choice: 5
+Invalid Entry. Please enter from the given choices.
+
+Input a SQUARE MATRIX.
+Enter the number of rows: 3
+Enter the number of columns: 4
+Square matrix not formed
+
+1. Continue
+2. Exit
+Enter your choice: 2
